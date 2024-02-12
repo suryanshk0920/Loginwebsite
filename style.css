@@ -13,6 +13,7 @@ body{
     background:url('image.jpg') no-repeat;
     background-size: cover;
     background-position: center;
+    filter: blur(8px);
 }
 header{
     position: fixed;
